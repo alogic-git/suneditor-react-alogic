@@ -54,7 +54,7 @@
   "peerDependencies": {
     "react": ">= 16.8.0",
     "react-dom": ">= 16.8.0",
-    "suneditor": "^2.44.10"
+    "suneditor": "github:alogic-git/suneditor-alogic"
   },
   "browserslist": [
     ">0.2%",
